@@ -1,3 +1,6 @@
+//hecho por el profe,
+//modificado By CGH
+
 package com.cgh.kidsdrawingapp
 
 import android.content.Context
